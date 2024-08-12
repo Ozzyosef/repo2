@@ -1,7 +1,7 @@
 public class oz{
 	public static void main (String[]args){
 		for(int i=1;i<=10;i++){
-			System.out.println("oz" + i);
+			System.out.println("oz yosef" + i);
 		}
 	}
 }
